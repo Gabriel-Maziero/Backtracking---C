@@ -1,5 +1,4 @@
  Projeto: Sistema de Rotas com Recursão em C
-Descrição
 
 Este projeto implementa um sistema de definição e busca de rotas utilizando recursão em linguagem C.
 O objetivo é explorar conceitos fundamentais de lógica de programação, estruturas de dados e algoritmos recursivos para encontrar caminhos entre pontos.
